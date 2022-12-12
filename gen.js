@@ -48,8 +48,8 @@ async function genTest(ID) {
      var blobUrl = URL.createObjectURL(blob);
      var link = document.createElement("a"); // Or maybe get it from the current document
     link.href = blobUrl;
-    link.download = "aDefaultFileName.txt";
-    link.innerHTML = "Click here to download the file";
+    link.download = "2260ID" + ID;
+    link.innerHTML = "Download Your Exam File";
     document.body.appendChild(link); // Or append it whereever you want
      // Create and save the file using the FileWriter library
 
