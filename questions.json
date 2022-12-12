@@ -1,0 +1,83 @@
+{
+    "questions" : [
+        {
+        "id": 1,
+        "section": "a",
+        "question": "I had 6 pencils, and my teacher gave me 4 more. How many pencils do I have now?" 
+    },
+
+    {
+        "id": 2,
+        "section": "a",
+        "question": "Gina’s dog got 3 treats on Sunday and 0 treats on Monday. How many treats did Gina’s puppy get in all?" 
+    },
+
+    {
+        "id": 3,
+        "section": "a",
+        "question": "Joel went to the zoo with his family. During the first hour he was there he saw a bear, 2 tigers, and 3 lions. How many animals did Joel see in his first hour at the zoo?" 
+    },
+
+    {
+        "id": 4,
+        "section": "a",
+        "question": "Jackson sorted his toy cars by color. He has 6 blue cars, 5 green cars, and 4 black cars. How many cars does Jackson have in all?" 
+    },
+
+    {
+        "id": 5,
+        "section": "a",
+        "question": "Ben has 2 green balloons and 4 yellow balloons. How many balloons does he have altogether?" 
+    },
+
+    {
+        "id": 1,
+        "section": "b",
+        "question": "There are 3 kids in the Clark family. Tina is 3, Joshua is 4, and Samantha is 7. If you add up all their ages, what is the sum of the Clark kids?" 
+    },
+
+    {
+        "id": 2,
+        "section": "b",
+        "question": "If you go for a swim and 6 of your friends come along, how many friends are swimming in total?" 
+    },
+
+    {
+        "id": 3,
+        "section": "b",
+        "question": "Rachel’s mom had some flowers in a vase. 3 of the flowers wilted and Rachel’s mom took them out of the vase. Now there are 5 flowers in the vase. How many flowers were in the vase to start with?" 
+    },
+
+    {
+        "id": 1,
+        "section": "c",
+        "question": "Hayden’s cat had a litter of kittens. 3 kittens were gray, 2 kittens were spotted, and 7 kittens were black. How many kittens did Hayden’s cat have?" 
+    },
+
+    {
+        "id": 2,
+        "section": "c",
+        "question": "Pedro brought in 3 red leaves and 6 yellow leaves from the playground. How many leaves does he have in all?" 
+    },
+
+    {
+        "id": 3,
+        "section": "c",
+        "question": "Gabriella read 3 books on Monday, 6 books on Tuesday, and 4 books on Wednesday. How many books did Gabriella read in all?" 
+    },
+
+    {
+        "id": 4,
+        "section": "c",
+        "question": "If you have 3 cats, 2 guinea pigs, and a bunny. How many cute little noses do they have altogether?" 
+    },
+
+    {
+        "id": 5,
+        "section": "c",
+        "question": "If there are 3 inches of snow on the ground in the morning and we get 3 more inches of snow by dinner time. How many inches of snow did we get that day?" 
+    }
+
+]
+
+}
