@@ -3,31 +3,37 @@
         {
         "id": 1,
         "section": "a",
-        "question": "Determine the convergence/divergence properties of the series.  If it converges and it is possible, evaluate the sum." 
+        "question": "Determine the convergence/divergence properties of the series.  If it converges and it is possible, evaluate the sum.
+
+∑aₚ(x-2)^p where aₚ=1/p." 
     },
 
     {
         "id": 2,
         "section": "a",
         "question": "Determine the convergence/divergence properties of the series.  If it converges and it is possible, evaluate the sum." 
+    ∑aₚ(x-2)^p where aₚ=1/p." 
     },
 
     {
         "id": 3,
         "section": "a",
         "question": "Determine the convergence/divergence properties of the series.  If it converges and it is possible, evaluate the sum." 
+    ∑aₚ(x-2)^p where aₚ=1/p." 
     },
 
     {
         "id": 4,
         "section": "a",
         "question": "Determine the convergence/divergence properties of the series.  If it converges and it is possible, evaluate the sum." 
+    ∑aₚ(x-2)^p where aₚ=1/p." 
     },
 
     {
         "id": 5,
         "section": "a",
         "question": "Determine the convergence/divergence properties of the series.  If it converges and it is possible, evaluate the sum." 
+    ∑aₚ(x-2)^p where aₚ=1/p." 
     },
 
     {
@@ -53,7 +59,7 @@
     {
         "id": 1,
         "section": "c",
-        "question": "Hayden’s cat had a litter of kittens. 3 kittens were gray, 2 kittens were spotted, and 7 kittens were black. How many kittens did Hayden’s cat have?" 
+        "question": "Set up the integral that would evaluate the volume of the SOR" 
     },
 
     {
