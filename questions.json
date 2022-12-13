@@ -3,25 +3,41 @@
         {
         "id": 1,
         "section": "a",
-        "question": "I had 6 pencils, and my teacher gave me 4 more. How many pencils do I have now?" 
+        "question": "Determine the convergence/divergence properties of the series.
+
+			If it converges and it is possible, evaluate the sum." 
     },
 
     {
         "id": 2,
         "section": "a",
-        "question": "Gina’s dog got 3 treats on Sunday and 0 treats on Monday. How many treats did Gina’s puppy get in all?" 
+        "question": "Determine the convergence/divergence properties of the series.
+
+			If it converges and it is possible, evaluate the sum." 
     },
 
     {
         "id": 3,
         "section": "a",
-        "question": "Joel went to the zoo with his family. During the first hour he was there he saw a bear, 2 tigers, and 3 lions. How many animals did Joel see in his first hour at the zoo?" 
+        "question": "Determine the convergence/divergence properties of the series.
+
+			If it converges and it is possible, evaluate the sum." 
     },
 
     {
         "id": 4,
         "section": "a",
-        "question": "Jackson sorted his toy cars by color. He has 6 blue cars, 5 green cars, and 4 black cars. How many cars does Jackson have in all?" 
+        "question": "Determine the convergence/divergence properties of the series.
+
+			If it converges and it is possible, evaluate the sum." 
+    },
+
+    {
+        "id": 5,
+        "section": "a",
+        "question": "Determine the convergence/divergence properties of the series.
+
+			If it converges and it is possible, evaluate the sum." 
     },
 
     {
