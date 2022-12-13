@@ -43,19 +43,27 @@
     {
         "id": 1,
         "section": "b",
-        "question": "There are 3 kids in the Clark family. Tina is 3, Joshua is 4, and Samantha is 7. If you add up all their ages, what is the sum of the Clark kids?" 
+        "question": "Evaluate the following integrals of the form ∫P(x)Q(x)dx, where:
+
+		P(x)=sin(x) and Q(x)=x." 
     },
 
     {
         "id": 2,
         "section": "b",
-        "question": "If you go for a swim and 6 of your friends come along, how many friends are swimming in total?" 
+        "question": "Evaluate the following integrals of the form ∫P(x)Q(x)dx, where:
+
+		P(x)=sin(x) and Q(x)=x." 
+
     },
 
     {
         "id": 3,
         "section": "b",
-        "question": "Rachel’s mom had some flowers in a vase. 3 of the flowers wilted and Rachel’s mom took them out of the vase. Now there are 5 flowers in the vase. How many flowers were in the vase to start with?" 
+        "question": "Evaluate the following integrals of the form ∫P(x)Q(x)dx, where:
+
+		P(x)=sin(x) and Q(x)=x." 
+
     },
 
     {
