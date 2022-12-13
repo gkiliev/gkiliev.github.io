@@ -3,67 +3,49 @@
         {
         "id": 1,
         "section": "a",
-        "question": "Determine the convergence/divergence properties of the series.
-
-			If it converges and it is possible, evaluate the sum." 
+        "question": "I had 6 pencils, and my teacher gave me 4 more. How many pencils do I have now?" 
     },
 
     {
         "id": 2,
         "section": "a",
-        "question": "Determine the convergence/divergence properties of the series.
-
-			If it converges and it is possible, evaluate the sum." 
+        "question": "Gina’s dog got 3 treats on Sunday and 0 treats on Monday. How many treats did Gina’s puppy get in all?" 
     },
 
     {
         "id": 3,
         "section": "a",
-        "question": "Determine the convergence/divergence properties of the series.
-
-			If it converges and it is possible, evaluate the sum." 
+        "question": "Joel went to the zoo with his family. During the first hour he was there he saw a bear, 2 tigers, and 3 lions. How many animals did Joel see in his first hour at the zoo?" 
     },
 
     {
         "id": 4,
         "section": "a",
-        "question": "Determine the convergence/divergence properties of the series.
-
-			If it converges and it is possible, evaluate the sum." 
+        "question": "Jackson sorted his toy cars by color. He has 6 blue cars, 5 green cars, and 4 black cars. How many cars does Jackson have in all?" 
     },
 
     {
         "id": 5,
         "section": "a",
-        "question": "Determine the convergence/divergence properties of the series.
-
-			If it converges and it is possible, evaluate the sum." 
+        "question": "Ben has 2 green balloons and 4 yellow balloons. How many balloons does he have altogether?" 
     },
 
     {
         "id": 1,
         "section": "b",
-        "question": "Evaluate the following integrals of the form ∫P(x)Q(x)dx, where:
-
-		P(x)=sin(x) and Q(x)=x." 
+        "question": "There are 3 kids in the Clark family. Tina is 3, Joshua is 4, and Samantha is 7. If you add up all their ages, what is the sum of the Clark kids?" 
     },
 
     {
         "id": 2,
         "section": "b",
-        "question": "Evaluate the following integrals of the form ∫P(x)Q(x)dx, where:
-
-		P(x)=sin(x) and Q(x)=x." 
-
+        "question": "If you go for a swim and 6 of your friends come along, how many friends are swimming in total?" 
     },
 
     {
         "id": 3,
         "section": "b",
-        "question": "Evaluate the following integrals of the form ∫P(x)Q(x)dx, where:
-
-		P(x)=sin(x) and Q(x)=x." 
-
+        "question": "Rachel’s mom had some flowers in a vase. 3 of the flowers wilted and Rachel’s mom took them out of the vase. Now there are 5 flowers in the vase. How many flowers were in the vase to start with?" 
     },
 
     {
